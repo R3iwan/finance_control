@@ -1,2 +1,1 @@
-# finance_control
-# finance_control
+Finance Control Bot for tracking you finances
